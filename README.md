@@ -1,5 +1,4 @@
 ---
-# Enhanced Readme for GitHub
 
 ## Custom Engine Tunes and Definitions
 
